@@ -1,0 +1,29 @@
+{
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Ayu Mirage",
+    "editor.fontSize": 17,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 30,
+    "editor.rulers": [
+        "80",
+        "120"
+    ],
+    "editor.scrollBeyondLastLine": false,
+    "files.trimTrailingWhitespace": true,
+    "emmet.triggerExpansionOnTab": true,
+    "blade.format.enable": true,
+    "emmet.includeLanguages": {
+        "blade" : "html"
+    },
+    "workbench.iconTheme": "ayu",
+    "terminal.integrated.rendererType": "dom",
+    "php-cs-fixer.onsave": true,
+    "php-cs-fixer.config": "/home/addeye/.vscode/.php_cs",
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "[php]": {
+        "editor.defaultFormatter": "junstyle.php-cs-fixer"
+    },
+}
