@@ -18,4 +18,8 @@ EditorConfig By EditorConfig
 
 Php DocBlocker By Nell Brayfield
 
+VSCode Great Icons By Emmanuel Beziat 
+
+Better PHP Unit Calbporzio
+
 Create User Snippet
