@@ -22,4 +22,8 @@ VSCode Great Icons By Emmanuel Beziat
 
 Better PHP Unit Calbporzio
 
+php cs fixer By Junstyle
+
+DotENV By mikestead
+
 Create User Snippet
