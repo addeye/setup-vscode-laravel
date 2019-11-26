@@ -5,10 +5,15 @@ extra
 install fira code font
 
 Extension vscode :
+
 Advanced New File By Patbenatar
+
 File Utils by steffen leistner
+
 Php Intelephense By Ben Mewburn
+
 Laravel Artisan By Ryan Naddy
+
 EditorConfig By EditorConfig
 
 Create User Snippet
