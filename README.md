@@ -26,4 +26,6 @@ php cs fixer By Junstyle
 
 DotENV By mikestead
 
+Bracket Pair Colorizer By CoenraadS
+
 Create User Snippet
