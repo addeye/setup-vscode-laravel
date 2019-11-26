@@ -1,0 +1,22 @@
+{
+	"Method Public": {
+		"prefix": "_pb",
+		"body": [
+			"public function $1()",
+			"{",
+			"\t$2",
+			"}"
+		],
+		"description": "Create method public"
+	},
+	"Method Private": {
+		"prefix": "_pv",
+		"body": [
+			"private function $1()",
+			"{",
+			"\t$2",
+			"}"
+		],
+		"description": "Create private method"
+	}
+}
