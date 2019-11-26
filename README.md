@@ -16,4 +16,6 @@ Laravel Artisan By Ryan Naddy
 
 EditorConfig By EditorConfig
 
+Php DocBlocker By Nell Brayfield
+
 Create User Snippet
